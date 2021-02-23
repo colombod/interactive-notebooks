@@ -354,3 +354,7 @@ notebooks/.ipynb_checkpoints/
 notebooks/csharp/Samples/.ipynb_checkpoints/
 
 notebooks/csharp/Samples/housing.csv
+
+notebooks/polyglot/.ipynb_checkpoints/
+
+*.csv
